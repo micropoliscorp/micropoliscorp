@@ -1,2 +1,3 @@
 # soon-more
-Placeholder repo
+
+This account is being setup and this placeholder repo will make space for more soon.
